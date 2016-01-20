@@ -1,0 +1,19 @@
+{
+  "name": "plugin_postcss",
+  "version": "1.0.0",
+  "description": "plugin postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugin",
+    "camelcase",
+    "postcss"
+  ],
+  "author": "hitrick",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^5.0.14"
+  }
+}
